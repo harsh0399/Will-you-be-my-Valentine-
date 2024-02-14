@@ -70,9 +70,9 @@ body {
 }
 
 .banner-gif {
-    width: 200%;
+    width: 100%;
     height: auto;
-    margin-top: 200px;
+    margin-top: 20px;
 
     img {
         width: auto;
